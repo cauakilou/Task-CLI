@@ -1,0 +1,4 @@
+[task ID:   1 desc:  tirar o lixo status:   TODO criado em:08/07/2025 : 01:39:08 ultima atualização 08/07/2025 : 01:39:08 
+, task ID:   2 desc:amassar a samella status:   TODO criado em:08/07/2025 : 01:39:17 ultima atualização 08/07/2025 : 01:39:17 
+, task ID:   3 desc:          fude status:   TODO criado em:08/07/2025 : 01:39:21 ultima atualização 08/07/2025 : 01:39:21 
+]
